@@ -1,0 +1,6 @@
+#Ignore the file and extensions
+
+*.exe
+*.o
+*.jar
+src/
